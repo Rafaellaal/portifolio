@@ -1,0 +1,23 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: aliceblue;
+    height: 100vh;
+}
+header{
+    padding: 20px;
+    background-color:cyan;
+    d
+    align-items: center;
+}
+li{
+    display: inline-block;
+}
+.logo img{
+    width: 8%;
+    border-radius: 30px;
+}
